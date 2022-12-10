@@ -26,9 +26,9 @@
         "pusher/pusher-php-server": "^4.1",
         "ramsey/uuid": "^4.2.2",
         "silviolleite/laravelpwa": "^2.0",
-        "spatie/schema-org": "^2.8",
+        "spatie/schema-org": "^3.13",
         "stripe/stripe-php": "^7.77",
-        "tcg/voyager": "^1.5",
+        "tcg/voyager": "^1.6",
         "zanysoft/laravel-zip": "^1.0",
         "guzzlehttp/guzzle": "^7.0.1",
         "yabacon/paystack-php": "^2.2"

@@ -76,7 +76,7 @@
 
         <div class="col-xs-12 col-sm-5 col-md-4 login-sidebar">
 
-           @yield('content')
+        @yield('content')
 
         </div> <!-- .login-sidebar -->
     </div> <!-- .row -->

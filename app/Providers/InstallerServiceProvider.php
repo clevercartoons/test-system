@@ -65,7 +65,6 @@ class InstallerServiceProvider extends ServiceProvider
             'Tokenizer',
             'XML',
             'cURL',
-            'exif',
             'GD'
         ];
     }
